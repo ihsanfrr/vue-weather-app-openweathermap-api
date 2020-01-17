@@ -1,3 +1,3 @@
-## weather-app use VueJS & Openweather API
+## weather-app use VueJS & Openweathermap API
 
 Have a nice day guys :)
